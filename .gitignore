@@ -1,0 +1,24 @@
+# Build output
+bin/
+obj/
+
+# Rider / VS
+.idea/
+.vs/
+*.user
+*.suo
+*.DotSettings.user
+
+# Test artifacts
+TestResults/
+coverage/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# CSV data files (опционально)
+*.csv
